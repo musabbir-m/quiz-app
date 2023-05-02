@@ -1,0 +1,69 @@
+[
+    {
+        "id":1,
+        "name": "JavaScript",
+        "img": "https://i.ibb.co/XZLY836/javascript.png"
+    },
+    
+    {
+        "id":2,
+        "name": "React",
+        "img": "https://i.ibb.co/2ck1Psh/linux.webp"
+    },
+    
+    {
+        "id":3,
+        "name": "Linux",
+        "img": "https://i.ibb.co/bXs4KH6/linux.webp"
+    },
+    
+    {
+        "id":4,
+        "name": "HTML",
+        "img": "https://i.ibb.co/2jskPvd/html.jpg"
+    },
+    
+    {
+        "id":5,
+        "name": "DevOps",
+        "img": "https://i.ibb.co/fnXMxyQ/devops.jpg"
+    },
+    
+    {
+        "id":6,
+        "name": "PHP",
+        "img": "https://i.ibb.co/pf7pZMY/php2.png"
+    },
+    {
+        "id":7,
+        "name": "kubernetes",
+        "img": "https://i.ibb.co/cJTK7Ym/Kubernetes.jpg"
+    },
+    {
+        "id":8,
+        "name": "SQL",
+        "img": "https://i.ibb.co/w7JH91L/sql.jpg"
+    },
+    {
+        "id":9,
+        "name": "Bash",
+        "img": "https://i.ibb.co/zN4CwL1/Bash.jpg"
+    },
+    
+    {
+        "id":10,
+        "name": "Docker",
+        "img": "https://i.ibb.co/vkpnTTd/Docker-Temporary-Image-Social-Thumbnail-1200x630-1.png"
+    },
+    {
+        "id":11,
+        "name": "Wordpress",
+        "img": "https://i.ibb.co/VQzwbgs/wordpress.webp"
+    },
+    {
+        "id":12,
+        "name": "Laravel",
+        "img": "https://i.ibb.co/vQ5MWBN/laravel.jpg"
+    }
+    
+]
