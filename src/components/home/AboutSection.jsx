@@ -1,5 +1,5 @@
 import { Col, Row } from 'antd';
-import React from 'react';
+// import React from 'react';
 import { AiFillTool } from 'react-icons/ai';
 import { RiComputerLine } from 'react-icons/ri';
 import { FaCode } from 'react-icons/fa';
