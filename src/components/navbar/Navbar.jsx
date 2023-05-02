@@ -3,7 +3,7 @@ import { Link } from "react-router-dom";
 
 const Navbar = () => {
   return (
-    <div className="bg-gray-800 text-white">
+    <div className="bg-gray-800 text-white ">
       <div className="flex justify-between">
         <div className="flex ml-8">
           <img
@@ -20,11 +20,7 @@ const Navbar = () => {
           <h2 className="lg:mr-10 mr-4 lg:font-base lg:text-xl">CONTRIBUTE</h2>
         </div>
       </div>
-      <div>
-        <h1>
-          <h1>Contact US</h1>
-        </h1>
-      </div>
+      
     </div>
   );
 };
