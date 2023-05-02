@@ -1,15 +1,12 @@
 
-import Footer from "./components/Footer/Footer"
-import Home from "./components/home/Home"
-import Navbar from "./components/navbar/Navbar"
+import route from "./Router/Route"
+import {RouterProvider} from  'react-router-dom'
 
 function App() {
   return (
-    <>
-      <Navbar></Navbar>
-      <Home></Home>
-      <Footer></Footer>
-    </>
+    <RouterProvider router = {route}>
+
+    </RouterProvider>
   )
 }
 
